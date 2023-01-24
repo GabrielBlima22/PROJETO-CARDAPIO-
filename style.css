@@ -10,7 +10,7 @@ h1 {
   font-size: 25px;
   align-items: center;
   background: white;
-  -webkit-background-clip: text;
+  display: block;
   -webkit-text-fill-color: transparent;
 }
 
