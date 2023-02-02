@@ -9,9 +9,9 @@ body {
 h1 {
   font-size: 25px;
   align-items: center;
-  background: white;
+  
   display: block;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
 }
 
 .div-odin {
